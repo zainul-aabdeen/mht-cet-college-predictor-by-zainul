@@ -12,8 +12,9 @@ MIT License — free to use, modify, and share.
 
 ⭐️ Support This Project
 If you found this helpful, leave a ⭐️ on GitHub or share the app with friends!
-🧩 Challenges Faced
-Creating this project wasn't just about building a UI — it involved overcoming tricky real-world data and deployment problems. Here's what we tackled:
+
+## 🧩 Challenges Faced
+   Creating this project wasn't just about building a UI — it involved overcoming tricky real-world data and deployment problems. Here's what we tackled:
 
 1. 🧾 Unstructured PDF Data
 The original CAP cutoff data came as a non-tabular, cluttered PDF
